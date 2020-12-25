@@ -1,0 +1,114 @@
+1608927962474	geckodriver	INFO	Listening on 127.0.0.1:40177
+1608927962478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH7ggqf"
+ExceptionHandler::GenerateDump cloned child 8185
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928086097	geckodriver	INFO	Listening on 127.0.0.1:34933
+1608928086101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK0GzDg"
+ExceptionHandler::GenerateDump cloned child 8326
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928140715	geckodriver	INFO	Listening on 127.0.0.1:37085
+1608928140717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem6G2Dn"
+ExceptionHandler::GenerateDump cloned child 8419
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928228607	geckodriver	INFO	Listening on 127.0.0.1:38265
+1608928228610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEEhCJa"
+ExceptionHandler::GenerateDump cloned child 8565
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928315763	geckodriver	INFO	Listening on 127.0.0.1:53673
+1608928315766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY92sIJ"
+ExceptionHandler::GenerateDump cloned child 8757
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928338384	geckodriver	INFO	Listening on 127.0.0.1:59569
+1608928338387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebkhMSF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608928339708	Marionette	INFO	Listening on port 41151
+1608928339821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608928347628	Marionette	INFO	Stopped listening on port 41151
+1608928386210	geckodriver	INFO	Listening on 127.0.0.1:38053
+1608928386214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR0Rwri"
+ExceptionHandler::GenerateDump cloned child 9553ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1608928397708	geckodriver	INFO	Listening on 127.0.0.1:42335
+1608928397712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVVq7dG"
+ExceptionHandler::GenerateDump cloned child 9641
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928552339	geckodriver	INFO	Listening on 127.0.0.1:44215
+1608928552345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileimJWzN"
+ExceptionHandler::GenerateDump cloned child 9882
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928599897	geckodriver	INFO	Listening on 127.0.0.1:54791
+1608928599903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecs0YRG"
+ExceptionHandler::GenerateDump cloned child 10020
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928609379	geckodriver	INFO	Listening on 127.0.0.1:40203
+1608928609381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley3pMNN"
+ExceptionHandler::GenerateDump cloned child 10084
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928642009	geckodriver	INFO	Listening on 127.0.0.1:40813
+1608928642012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Pq3ei"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608928643419	Marionette	INFO	Listening on port 37427
+1608928643559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608928648875	Marionette	INFO	Stopped listening on port 37427
+1608928655365	geckodriver	INFO	Listening on 127.0.0.1:36927
+1608928655367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegDUQRC"
+ExceptionHandler::GenerateDump cloned child 10452
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608928795419	geckodriver	INFO	Listening on 127.0.0.1:37419
+1608928795422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex7fS5r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608928796813	Marionette	INFO	Listening on port 45661
+1608928796844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608928802058	Marionette	INFO	Stopped listening on port 45661
+1608928806871	geckodriver	INFO	Listening on 127.0.0.1:34259
+1608928806873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWwTMPf"
+ExceptionHandler::GenerateDump cloned child 10834
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608929038069	geckodriver	INFO	Listening on 127.0.0.1:52945
+1608929038072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHuxUFx"
+ExceptionHandler::GenerateDump cloned child 11138
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608929048751	geckodriver	INFO	Listening on 127.0.0.1:38831
+1608929048754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew8HxWN"
+ExceptionHandler::GenerateDump cloned child 11198
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1608929102507	geckodriver	INFO	Listening on 127.0.0.1:51553
+1608929102510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5bI41K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608929103868	Marionette	INFO	Listening on port 38121
+1608929103928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608929110248	Marionette	INFO	Stopped listening on port 38121
+1608929231504	geckodriver	INFO	Listening on 127.0.0.1:51087
+1608929231507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev8GGBb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608929232781	Marionette	INFO	Listening on port 39097
+1608929232825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608929239327	Marionette	INFO	Stopped listening on port 39097
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608929324423	geckodriver	INFO	Listening on 127.0.0.1:43655
+1608929324426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexn5Vzs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608929325633	Marionette	INFO	Listening on port 37611
+1608929325775	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608929333044	Marionette	INFO	Stopped listening on port 37611
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
